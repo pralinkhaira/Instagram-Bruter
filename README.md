@@ -91,7 +91,7 @@ python  instagram.py  -u <username> -p <password_list.txt> -px <proxy_list.txt> 
 ### Options:
 
 -  `-u, --username` : Target Instagram username or email
-
+jackiehyd3
 -  `-p, --passlist` : Path to password list file
 
 -  `-px, --proxylist` : Path to proxy list file
