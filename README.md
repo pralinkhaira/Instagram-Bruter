@@ -182,7 +182,7 @@ python instagram.py --prune 0.05
 ### Start Attack
 
 ```
-python instagram.py -u <username> -p <passlist>
+
 ```
 
 ### Example Output (During Attack)
