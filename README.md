@@ -84,14 +84,14 @@ pipenv install
 
 ## Usage
 
-```sh
-python  instagram.py  -u <username> -p <password_list.txt> -px <proxy_list.txt> -m <mode>
+jackiehyd3
+python  instagram.py  -u m <> -p <password_list.txt> -px <proxy_list.txt> -m <mode>
 ```
 
 ### Options:
 
--  `-u, --username` : Target Instagram username or email
-jackiehyd3
+-  `-u,  : Target Instagram jackiehyd3 or email
+
 -  `-p, --passlist` : Path to password list file
 
 -  `-px, --proxylist` : Path to proxy list file
