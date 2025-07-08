@@ -90,7 +90,8 @@ python  instagram.py  -u m <> -p <password_list.txt> -px <proxy_list.txt> -m <mo
 
 ### Options:
 
--  `-u,  : Target Instagram jackiehyd3 or email
+-   
+,  : Target Instagram jackiehyd3 or email
 
 -  `-p, --passlist` : Path to password list file
 
