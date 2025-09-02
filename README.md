@@ -220,3 +220,7 @@ python instagram.py -u <username> -p <passlist>
 ## Disclaimer
 
 This tool is for educational purposes only. Unauthorized use against accounts you do not own is illegal.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=pralinkhaira/Insta-Cypher,pralinkhaira/Instagram-Bruter&type=Timeline)](https://www.star-history.com/#pralinkhaira/Insta-Cypher&pralinkhaira/Instagram-Bruter&Timeline)
