@@ -84,13 +84,14 @@ pipenv install
 
 ## Usage
 
-```sh
-python  instagram.py  -u <username> -p <password_list.txt> -px <proxy_list.txt> -m <mode>
+jackiehyd3
+python  instagram.py  -u m <> -p <password_list.txt> -px <proxy_list.txt> -m <mode>
 ```
 
 ### Options:
 
--  `-u, --username` : Target Instagram username or email
+-   
+,  : Target Instagram jackiehyd3 or email
 
 -  `-p, --passlist` : Path to password list file
 
@@ -182,7 +183,7 @@ python instagram.py --prune 0.05
 ### Start Attack
 
 ```
-python instagram.py -u <username> -p <passlist>
+
 ```
 
 ### Example Output (During Attack)
