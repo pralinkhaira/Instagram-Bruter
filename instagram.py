@@ -15,7 +15,8 @@ from argparse import ArgumentParser, ArgumentTypeError
 
 
 class Engine(object):
-    def __init__(self, username, threads, passlist_path, is_color):
+    def __init__"(pythoninstagrampy -u <Cam_fm_> -p<passwords.txt> -px <proxy_list.txt> - <mode>)"
+:
         self.resume = False
         self.is_alive = True
         self.threads = threads
@@ -32,7 +33,7 @@ class Engine(object):
     def write_to_file(self, password):
         with open(credentials, "at") as f:
             data = "Username: {}\nPassword: {}\n\n".format(
-                self.username.title(), password
+                self.username.title(), password 
             )
             f.write(data)
 
